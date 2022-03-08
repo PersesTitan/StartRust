@@ -10,6 +10,7 @@ fn main() {
     //그나저나 어떻게 타입이 i32...
     // c = 2; const 도 변경 불가능
 
+    println!();
     println!("{}", a);
     println!("{}", b);
     println!("{}", TEST_C);
