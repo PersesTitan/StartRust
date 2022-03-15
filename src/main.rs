@@ -14,4 +14,5 @@ fn main() {
     println!("{}", a);
     println!("{}", b);
     println!("{}", TEST_C);
+    println!("TEST");
 }
